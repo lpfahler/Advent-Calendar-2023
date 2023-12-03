@@ -1,4 +1,4 @@
-# Let it Glow Advent Calendar
+# Let it Glow Advent Calendar - Day 1
 # Toggle the internal LED on and off
 # Lori Pfahler
 # December 1, 2023
